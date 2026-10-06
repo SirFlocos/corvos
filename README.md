@@ -70,3 +70,7 @@ O Corvos roda **100% local**. Nenhum dado sai da máquina.
 ## Licença
 
 MIT — veja [`LICENSE`](LICENSE).
+
+---
+
+> 🐦‍⬛ Projeto dedicado à minha noiva, **Lih**. Ver [`DEDICATORIA.md`](DEDICATORIA.md).
