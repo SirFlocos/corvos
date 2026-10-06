@@ -1,0 +1,23 @@
+# ============================================
+# Dados do usuario (NUNCA subir)
+# ============================================
+config.txt
+.senha.txt
+.huginn_demo
+
+# Planilha de trabalho (gerada a partir do template)
+MUNIN.xlsx
+MUNIN.xlsx.bak
+
+# Pastas de dados (contém XMLs e SPED reais)
+01_XML_Fornecedores/
+02_Dados_ERP/
+
+# Logs
+*.log
+
+# Lixo do Windows / Office
+Thumbs.db
+desktop.ini
+~$*.xlsx
+~$*.xlsm
